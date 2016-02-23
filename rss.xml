@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GearedNomad]]></title>
+        <description><![CDATA[GearedNomad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 02:36:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enjoy The Journey]]></title>
+            <description><![CDATA[<article><h1>Enjoy The Journey</h1><p>Don't worry about the destination!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/466e3d30-6618-47a8-817b-c366d4f535a2.jpg"></article>]]></description>
+            <link>undefinedenjoy-the-journey/index.html</link>
+            <guid isPermaLink="false">485ee29f-9d92-47f8-a68d-663e171f9715</guid>
+            <pubDate>Tue, 23 Feb 2016 02:35:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
