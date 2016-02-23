@@ -1,0 +1,28 @@
+name: GearedNomad
+favicon: null
+layout_spectrum: 0.21246883552521467
+typography_spectrum: 0.36201146547682583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8763240261469036
+  lightness: 0.9547805641777813
+  saturation: 0.810439465334639
+  rhythmicContrast: 0.15866246074438095
+purpose: []
